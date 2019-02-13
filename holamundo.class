@@ -1,0 +1,13 @@
+class hola{
+	int a;
+		public static void main(String [] args){
+			for(a=10; a>=0; a--){
+
+				System.out.println("hola mundo"+a);
+			}
+
+
+		}
+
+
+}
